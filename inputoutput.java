@@ -16,6 +16,8 @@ public class inputoutput {
         System.out.println("THANK YOU FOR VISITING US !");
         System.out.println("----------------------------------------------------------------------------");
         System.out.println(name+"\n"+age+"\n"+mobile+"\n"+marks);
+        System.out.print("hello");
+        System.out.printf(",How are u %s",name);
 
     }
 }
