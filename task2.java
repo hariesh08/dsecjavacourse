@@ -16,5 +16,6 @@ public class task2 {
                 System.out.printf("%d is odd but it is less than 10",b);
             }
         }
+        a.close();
     }
 }
